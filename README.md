@@ -1,6 +1,11 @@
 # Financial-Sentiment-Analysis
 (FiQA, Financial PhraseBank)
 ---
+### Objective
+> - Sentiment Classification
+### Challenge
+> - Imbalance calss label
+---
 ### CRISP-DM process step
 - ##### 1. Data Understanding
 - ##### 2. Preprocessing
