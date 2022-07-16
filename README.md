@@ -23,3 +23,5 @@
 > - Roc
 
 ##### Note : TH version
+#### Thanks you, I hope this inspire someone who is fresher or learning data science.
+---
